@@ -5,7 +5,7 @@
                   <h2> Model name: NET1 </h2>
               </th>
               <th rowspan="9">
-                  <img src="https://github.com/Arillos/WDSDataset/blob/main/NET1.png"                   alt="Network topology" width="445px">
+                   <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.png"                 alt="Network topology" width="445px">
               </th>
           </tr>
           <tr>
