@@ -2,10 +2,10 @@
   <table>
           <tr>
               <th colspan="5" height="140px">
-                  <h2> Model name: NET1 </h2>
+                  <h2> Model name: NET1.inp </h2>
               </th>
               <th rowspan="9">
-                   <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.png"                 alt="Network topology" width="445px">
+                  <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.inp.png"                   alt="Network topology" width="445px">
               </th>
           </tr>
           <tr>
@@ -120,7 +120,7 @@
           REFERENCE RESULTS
       </td>
       <td rowspan="10">
-          <img src="https://github.com/Arillos/wdsprotector/blob/main/NET1.png"           alt="Network topology" width="325px">
+           <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/            NET1_node_elevation_3D.png"           alt="Network topology" width="325px">
       </td>
   </tr>
   <tr>
