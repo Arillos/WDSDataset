@@ -153,7 +153,7 @@
 </body>
 <table>
       <td colspan="7" align="center">
-          REFERENCE RESULTS
+          <b>REFERENCE RESULTS</b>
       </td>
       <td rowspan="10">
            <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_node_elevation_3D.png"           alt="Network topology" width="100%">
@@ -161,22 +161,22 @@
   </tr>
   <tr>
       <td align="center">
-         MIN
+         <b>MIN</b>
       </td>
       <td align="center">
-          Value
+          <b>Value</b>
       </td>
       <td align="center">
-          ID
+          <b>ID</b>
       </td>
       <td align="center">
-          MAX
+          <b>MAX</b>
       </td>
       <td align="center">
-          Value
+          <b>Value</b>
       </td>
       <td align="center">
-         ID
+         <b>ID</b>
       </td>
   </tr>
   <tr>
