@@ -20,7 +20,7 @@
               <td align="left">
                   9
               </td>
-              <td rowspan="7">
+              <td rowspan="12">
               </td>
               <td align="right">
                   Flow units:
@@ -274,7 +274,7 @@
       </td>
   </tr>
   <tr>
-      <td colspan="10" align="center"> </td>
+      <td colspan="6" align="center"> </td>
   </tr>
   <tr>
       <td align="right">
