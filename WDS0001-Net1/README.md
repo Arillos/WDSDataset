@@ -20,7 +20,7 @@
               <td align="left">
                   9
               </td>
-              <td rowspan="12">
+              <td rowspan="6">
               </td>
               <td align="right">
                   Flow units:
@@ -93,10 +93,10 @@
                   0
               </td>
               <td align="right">
-                  Licence:
+                  -
               </td>
               <td align="left">
-                  --
+                  -
               </td>
           </tr>
           <tr>
@@ -117,17 +117,6 @@
               <td align="right">
                   -
               </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-          </tr>
-          <tr>
               <td align="right">
                   -
               </td>
@@ -145,17 +134,6 @@
               <td align="right">
                   -
               </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-          </tr>
-          <tr>
               <td align="right">
                   -
               </td>
@@ -170,6 +148,43 @@
               </td>
           </tr>
           <tr>
+              <td align="right">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+          </tr>
+          <tr>
+              <td align="right">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+          </tr>
+          <tr>
+              <td align="right">
+                  -
+              </td>
               <td align="right">
                   -
               </td>
