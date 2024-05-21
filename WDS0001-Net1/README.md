@@ -20,7 +20,7 @@
               <td align="left">
                   9
               </td>
-              <td rowspan="6">
+              <td rowspan="7">
               </td>
               <td align="right">
                   Flow units:
@@ -118,70 +118,34 @@
               </td>
           </tr>
           <tr>
-              <td align="right">
-                  -
+              <td colspan="2" align="right">
+                  Source: 
               </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
+              <td colspan="3" align="right">
                   -
               </td>
           </tr>
           <tr>
-              <td align="right">
-                  -
+              <td colspan="2" align="right">
+                  Licence: 
               </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
+              <td colspan="3" align="right">
                   -
               </td>
           </tr>
           <tr>
-              <td align="right">
-                  -
+              <td colspan="2" align="right">
+                  Other info 1: 
               </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
+              <td colspan="3" align="right">
                   -
               </td>
           </tr>
           <tr>
-              <td align="right">
-                  -
+              <td colspan="2" align="right">
+                  Other info 2: 
               </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
+              <td colspan="3" align="right">
                   -
               </td>
           </tr>
