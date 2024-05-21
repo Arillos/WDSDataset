@@ -4,7 +4,7 @@
               <th colspan="5" height="140px">
                   <h2> Model name: NET1.inp </h2>
               </th>
-              <th rowspan="9">
+              <th rowspan="12">
                   <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.png"                   alt="Network topology" width="100%">
               </th>
           </tr>
@@ -111,6 +111,48 @@
               </td>
               <td align="left">
                   Unreal
+              </td>
+          </tr>
+          <tr>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+          </tr>
+          <tr>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+          </tr>
+          <tr>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
+              </td>
+              <td align="right">
+                  -
+              </td>
+              <td align="left">
+                  -
               </td>
           </tr>
   </table>
