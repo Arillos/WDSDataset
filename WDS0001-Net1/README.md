@@ -363,3 +363,78 @@
       </td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td colspan="2" align="center">
+          <b>FILES</b>
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Reference model: </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          Reference results:
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td colspan="2" align="center">
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Valves localisation (configuration 1): </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Model with valves (configuration 1): </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Simulation results (configuration 1): </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Valves localisation (configuration 2): </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Model with valves (configuration 2): </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>Simulation results (configuration 2): </b>
+      </td>
+      <td align="center">
+          link
+      </td>
+  </tr>
+</table>
