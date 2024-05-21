@@ -79,7 +79,7 @@
                   1
               </td>
               <td align="right">
-                  Source:
+                  -
               </td>
               <td align="left">
                   --
@@ -114,20 +114,7 @@
               </td>
           </tr>
           <tr>
-              <td align="right">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
-              </td>
-              <td align="right">
-                  -
-              </td>
-              <td align="left">
-                  -
+              <td colspan="7" align="center">
               </td>
           </tr>
           <tr>
