@@ -10,7 +10,7 @@
           </tr>
           <tr>
               <td colspan="5" style="font-weight:bold" align="center" height="60px">
-                  BASIC INFORMATION
+                  **BASIC INFORMATION**
               </td>
           </tr>
           <tr>
