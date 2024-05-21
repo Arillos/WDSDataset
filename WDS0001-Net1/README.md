@@ -9,7 +9,7 @@
               </th>
           </tr>
           <tr>
-              <td colspan="5" align="center" height="60px">
+              <td colspan="5" style="font:bold" align="center" height="60px">
                   BASIC INFORMATION
               </td>
           </tr>
