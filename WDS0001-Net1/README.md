@@ -120,7 +120,7 @@
           REFERENCE RESULTS
       </td>
       <td rowspan="10">
-           <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_node_elevation_3D.png"           alt="Network topology" width="525px">
+           <img src="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_node_elevation_3D.png"           alt="Network topology" width="100%">
       </td>
   </tr>
   <tr>
