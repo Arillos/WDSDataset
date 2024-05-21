@@ -323,3 +323,43 @@
       </td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td colspan="3" align="center">
+          <b>CONFIGURATION OF VALVES LOCATION</b>
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>ID</b>
+      </td>
+      <td align="center">
+          <b>NETWORK TOPOLOGY</b>
+      </td>
+      <td align="center">
+          <b>SEGMENTATION RESULT</b>
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>CONFIGURATION 1</b>
+      </td>
+      <td align="center">
+          <b>TOPOLOGY 1 </b>
+      </td>
+      <td align="center">
+          <b>SEGMENTATION 1</b>
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
+          <b>CONFIGURATION 2</b>
+      </td>
+      <td align="center">
+          <b>TOPOLOGY 2 </b>
+      </td>
+      <td align="center">
+          <b>SEGMENTATION 2</b>
+      </td>
+  </tr>
+</table>
