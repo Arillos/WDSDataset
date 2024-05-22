@@ -375,7 +375,7 @@
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.inp">NET1.inp</a>      </td>
-      <td align="center" width="50%">
+      <td align="center" width="35%" text-align="justify">
           Hydraulic model of the network without any modifications.
       </td>
   </tr>
@@ -422,7 +422,7 @@
           link
       </td>
       <td rowspan="2" align="center" width="35%" text-align="justify">
-           Results of 24-hour simulation of the hydraulic model with vavles.
+           Results of 24-hour simulation of the hydraulic model with valves.
       </td>
   </tr>
   <tr>
