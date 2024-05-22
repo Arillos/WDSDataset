@@ -366,7 +366,7 @@
 <table>
   <tr>
       <td colspan="2" align="center">
-          <b>FILES</b>
+          <b>FILES                                                                                                                                      </b>
       </td>
   </tr>
   <tr>
