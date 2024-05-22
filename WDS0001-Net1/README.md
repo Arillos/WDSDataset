@@ -365,8 +365,8 @@
 </table>
 <table>
   <tr>
-      <td colspan="2" align="center">
-          <b>FILES                                                                                                                                      </b>
+      <td colspan="3" align="center">
+          <b>FILES</b>
       </td>
   </tr>
   <tr>
@@ -375,13 +375,19 @@
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.inp">NET1.inp</a>      </td>
+      <td align="center">
+          description!
+      </td>
   </tr>
   <tr>
       <td align="center">
           Reference results (CSV):
       </td>
       <td align="center">
-          <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_demand.csv">demand</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_flowrate.csv">flowrate</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_pressure.csv">pressure</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_head.csv">head</a>      </td>
+          <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_demand.csv">Demand</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_flowrate.csv">Flowrate</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_pressure.csv">Pressure</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_head.csv">Head</a>      </td>
+      <td align="center">
+          description!
+      </td>
   </tr>
   <tr>
       <td colspan="2" align="center">
@@ -393,6 +399,9 @@
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_valve_config_1.json">Configuration 1</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_valve_config_2.json">Configuration 2</a>      </td>
+      <td align="center">
+          description!
+      </td>
   </tr>
   <tr>
       <td align="center">
@@ -400,6 +409,9 @@
       </td>
       <td align="center">
           link1, link2
+      </td>
+      <td align="center">
+          description!
       </td>
   </tr>
   <tr>
@@ -409,6 +421,9 @@
       <td align="center">
           link
       </td>
+      <td align="center">
+          description!
+      </td>
   </tr>
   <tr>
       <td align="center">
@@ -416,6 +431,9 @@
       </td>
       <td align="center">
           link
+      </td>
+      <td align="center">
+          description!
       </td>
   </tr>
 </table>
