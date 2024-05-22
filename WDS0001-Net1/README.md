@@ -415,7 +415,7 @@
   </tr>
   <tr>
       <td align="center">
-          <b>Simulation results (configuration 1): </b>
+          <b>Simulation results configuration 1 (CSV): </b>
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_demand_config_1.csv">Demand</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_flowrate_config_1.csv">Flowrate</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_pressure_config_1.csv">Pressure</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_head_config_1.csv">Head</a>      </td>
@@ -425,7 +425,7 @@
   </tr>
   <tr>
       <td align="center">
-          <b>Simulation results (configuration 2): </b>
+          <b>Simulation results configuration 2 (CSV): </b>
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_demand_config_2.csv">Demand</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_flowrate_config_2.csv">Flowrate</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_pressure_config_2.csv">Pressure</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_head_config_2.csv">Head</a>      </td>
