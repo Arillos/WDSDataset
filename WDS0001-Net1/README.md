@@ -408,7 +408,7 @@
           <b>Model with valves (INP): </b>
       </td>
       <td align="center">
-          <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_config_1.inp">NET1_config_1</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_config_2.inp">NET1_config_1</a>      </td>
+          <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_config_1.inp">NET1_config_1</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_config_2.inp">NET1_config_2</a>      </td>
       <td align="center" width="35%" text-align="justify">
           Models of the reference network, in which valves were introduced according to the           locations shown. A valve is presented as a pipe with a length of 0 and a diameter           equal to the pipe on which it is located. The ID of a valve is a combination of           the ID of the pipe on which it is located and the neighboring node.
       </td>
