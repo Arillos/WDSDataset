@@ -374,7 +374,7 @@
           <b>Reference model: </b>
       </td>
       <td align="center">
-          <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.inp">link</a>           </td>
+          <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.inp" download>link</a>           </td>
   </tr>
   <tr>
       <td align="center">
