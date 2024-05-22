@@ -385,7 +385,7 @@
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_demand.csv">Demand</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_flowrate.csv">Flowrate</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_pressure.csv">Pressure</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_head.csv">Head</a>      </td>
-      <td align="center" width="50%">
+      <td align="center" width="35%" text-align="justify">
           Results of 24-hour simulation of the baseline hydraulic model.
       </td>
   </tr>
@@ -399,7 +399,7 @@
       </td>
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_valve_config_1.json">Configuration 1</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_valve_config_2.json">Configuration 2</a>      </td>
-      <td align="center" width="50%">
+      <td align="center" width="35%" text-align="justify">
           Information on the location of valves in two example configurations.           The valve is located by the ID of the pipe on which it is located and           its neighboring node.
       </td>
   </tr>
@@ -410,7 +410,7 @@
       <td align="center">
           link1, link2
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="35%" text-align="justify">
           Models of the reference network, in which valves were introduced according to the           locations shown. A valve is presented as a pipe with a length of 0 and a diameter           equal to the pipe on which it is located. The ID of a valve is a combination of           the ID of the pipe on which it is located and the neighboring node.
       </td>
   </tr>
@@ -421,7 +421,7 @@
       <td align="center">
           link
       </td>
-      <td rowspan="2" align="center" width="50%">
+      <td rowspan="2" align="center" width="35%" text-align="justify">
            Results of 24-hour simulation of the hydraulic model with vavles.
       </td>
   </tr>
