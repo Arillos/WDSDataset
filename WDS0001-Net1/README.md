@@ -376,7 +376,7 @@
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1.inp">NET1.inp</a>      </td>
       <td align="center">
-          description!
+          Hydraulic model of the network without any modifications.
       </td>
   </tr>
   <tr>
@@ -386,11 +386,11 @@
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_demand.csv">Demand</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_flowrate.csv">Flowrate</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_pressure.csv">Pressure</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_head.csv">Head</a>      </td>
       <td align="center">
-          description!
+          Results of 24-hour simulation of the baseline hydraulic model.
       </td>
   </tr>
   <tr>
-      <td colspan="2" align="center">
+      <td colspan="3" align="center">
       </td>
   </tr>
   <tr>
@@ -400,7 +400,7 @@
       <td align="center">
           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_valve_config_1.json">Configuration 1</a>,           <a href="https://github.com/Arillos/WDSDataset/blob/main/WDS0001-Net1/NET1_valve_config_2.json">Configuration 2</a>      </td>
       <td align="center">
-          description!
+          Information on the location of valves in two example configurations.           The valve is located by the ID of the pipe on which it is located and           its neighboring node.
       </td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@
           link1, link2
       </td>
       <td align="center">
-          description!
+          Models of the reference network, in which valves were introduced according to the           locations shown. A valve is presented as a pipe with a length of 0 and a diameter           equal to the pipe on which it is located. The ID of a valve is a combination of           the ID of the pipe on which it is located and the neighboring node.
       </td>
   </tr>
   <tr>
@@ -421,8 +421,8 @@
       <td align="center">
           link
       </td>
-      <td align="center">
-          description!
+      <td rowspan="2" align="center">
+           Results of 24-hour simulation of the hydraulic model with vavles.
       </td>
   </tr>
   <tr>
@@ -431,9 +431,6 @@
       </td>
       <td align="center">
           link
-      </td>
-      <td align="center">
-          description!
       </td>
   </tr>
 </table>
